@@ -5,7 +5,7 @@ void showMatrix(Matrix K){
         for(int j=0;j<K.size();j++){
             cout << K.at(i).at(j) << "\t";
         }
-        cout << "]\n";
+        cout << "\t]\n";
     }
 }
 

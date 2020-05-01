@@ -37,13 +37,7 @@ int main()
     
     showMatrix(K);
     
-    // zeroes(T,b.size());
-
-    // calculate(K,b,T);
-
-    // cout << "La respuesta es: " << endl;
-    
-    // showVector(T);
+  
 
     return 0;
 }
